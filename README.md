@@ -2,7 +2,9 @@
 
 **THIS IS *NOT* AN OFFICIAL GRID.**
 
-This repo contains an automatically generated, *experimental* GIS layer of the Canada Borden archaeological grid. It is **not** affiliated with the Canadian Archaeological Association or with any provincial or federal heritage branch. The script was developed with the assistance of ChatGPT (OpenAI o3) and has been verified against Québec archaeological site point data.
+This repo contains an automatically generated, *experimental* GIS layer of the Canada Borden archaeological grid. It is **not** affiliated with the Canadian Archaeological Association or with any provincial or federal heritage branch. This experimental grid is intended for use between 42 ° N and 62 ° N. Accuracy north of 62 ° N is not valid.
+
+The script was developed with the assistance of ChatGPT (OpenAI o3) and has been verified against Québec archaeological site point data.
 
 **File:** `borden_experimental.py`
 **Output:** `borden_grid_canada.gpkg`
